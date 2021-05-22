@@ -1,6 +1,6 @@
 ＃Python游戏。
 
-CHinese
+简体中文
 如果你没有安装python，请先前往' www.python.org '进行下载python。
 如果您只安装了python，却没有安装游戏运行库，请运行'install library.bat'进行安装游戏运行库。
 如果您一切准备就绪，就可以游玩了！运行'run.bat'启动游戏。
